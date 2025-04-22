@@ -1,0 +1,45 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #F5F5F5;
+    color: #333333;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 70px;
+    background-color: #c90000;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: calc(30% - 20px);
+}
+
+.iconeMover {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    margin-top: 10%;
+}
+
+button {
+    background-color: #ffcc00;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #FF0000;
+    color: white;
+}
