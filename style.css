@@ -2,10 +2,11 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #F5F5F5;
     color: #333333;
+    background-image: url('https://miramarshopping.com.br/wp-content/uploads/2022/08/MCDonalds-santos.jpg');
 }
 
 .container {
-    max-width: 800px;
+    width: 500px;
     margin: auto;
     padding: 70px;
     background-color: #c90000;
@@ -17,7 +18,7 @@ body {
 }
 
 .card {
-    background-color: #FFFFFF;
+    background-color: #f5e8e8;
     border: 1px solid #CCCCCC;
     border-radius: 5px;
     margin: 10px;
